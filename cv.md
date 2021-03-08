@@ -11,7 +11,7 @@ I am from Kazakhstan and I am a curious person in learning new things, and I enj
 
 ## My Skills
 
-I am learning HTML, CSS and JS.
+I am learning **HTML**, **CSS** and **JS**.
 
 ## My code's examples
 
