@@ -118,6 +118,17 @@ div {
     margin: 0;
 }
 
+.span-to-block {
+    display: block;
+}
+
+.to-offset {
+    padding-left: 3em;
+}
+
+.span-to-red {
+    color: red;
+}
 
 /* ---------- Footer ---------- */
 .footer {
