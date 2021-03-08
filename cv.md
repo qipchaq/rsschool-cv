@@ -15,7 +15,8 @@ I am learning **HTML**, **CSS** and **JS**.
 
 ## My code's examples
 
-Here my sample of code:
+My codes are availabe on [qipchaq.github.io](https://github.com/qipchaq/qipchaq.github.io).
+Also here my sample of code:
 ```javascript
 function greet() {
     console.log("Hello World");
