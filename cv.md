@@ -2,7 +2,8 @@
 ### Web-developer
 
 My contacts:
-nurkali.adil@gmail.com | +77079335577
+<a href="mailto:nurkali.adil@gmail.com">nurkali.adil@gmail.com</a>
+| <a href="tel:+77079335577">+77079335577</a>
 
 ## About Me
 
