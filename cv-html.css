@@ -27,7 +27,13 @@
         --fs-h2: 1.5rem;
         --fs-body: 1.25rem;
     }
-}   
+}  
+
+
+a:hover {
+    transform: scale(1.05);
+    opacity: 0.8;
+}
 
 /* --------- Typography --------- */
 h1,
@@ -64,6 +70,10 @@ body {
     padding-top: 1em;
     padding-bottom: 0.5em;
     color: var(--clr-light);
+}
+
+.header__description {
+    font-size: 2rem;
 }
 
 .header p {
@@ -112,6 +122,11 @@ div {
     grid-row: 1 / 7;
 } 
 
+.code-examples a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .section div p {
     width: 70%;
     grid-column: 2 / 3; 
@@ -134,13 +149,20 @@ div {
 /* ---------- Footer ---------- */
 .footer {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     align-items: center;
+    justify-content: center;
     max-width: 1000px;
     margin: 1em auto 0 auto;
     background-color: var(--clr-dark);
     color: var(--clr-accent);
     padding: 15px;
+    
+}
+
+.footer div {
+    display: flex;
+    padding: 0;
 }
 
 .footer a {
@@ -148,10 +170,17 @@ div {
     text-decoration: none;
 }
 
+.footer__icon--link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
+}
+
 .footer p {
     margin: 0;
 }
 
 .footer img {
-    width: 100px;
+    width: 30px;
 } 
